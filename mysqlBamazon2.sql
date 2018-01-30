@@ -1,0 +1,12 @@
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Apple', 'Produce', '.50', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Orange', 'Produce', '.50', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Banana', 'Produce', '.20', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Doritos', 'Snacks', '3.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Ritz', 'Snacks', '2.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Cheezitz', 'Snacks', '3.49', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Rump Roast', 'Meat', '1.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Pork Chops', 'Meat', '2.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Porterhouse', 'Meat', '5.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Cheerios', 'Cereal', '2.99', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Capn Crunch', 'Cereal', '3.49', '100');
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Trix', 'Cereal', '3.99', '100');
