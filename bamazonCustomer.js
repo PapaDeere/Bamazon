@@ -2,14 +2,14 @@ var mysql = require("mysql");
 var inquirer = require("inquirer");
 
 var connection = mysql.createConnection({
-  host: "127.0.0.1",
+  host: "localhost",
   port: 3306,
 
   // Your username
   user: "root",
 
   // Your password
-  password: "",
+  password: "Snafu5!50",
   database: "bamazon"
 });
 
